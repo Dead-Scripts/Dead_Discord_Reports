@@ -1,4 +1,5 @@
 ### DiscordReports
+[![Developer Discord]](https://discord.gg/m39AUuSatU)
 
 What is it?
 
